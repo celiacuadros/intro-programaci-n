@@ -1,2 +1,2 @@
-# intro-programaci-n
+# intro-programacion
 Intro a la programación Cibernarium
